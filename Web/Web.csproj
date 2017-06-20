@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F6BE2C4C-0104-40A5-BF22-915029B5F003}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Web</RootNamespace>
+    <AssemblyName>Web</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AspNetPager">
+      <HintPath>..\..\AspNetPagerCN-7.5.1\Demo\Bin\AspNetPager.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\..\asp.net_xls_帮助类\xls\Bin\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.1\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.1.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.1.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.1.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.1.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.1.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.1.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NPOI">
+      <HintPath>..\..\asp.net_xls_帮助类\xls\Bin\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML">
+      <HintPath>..\..\asp.net_xls_帮助类\xls\Bin\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net">
+      <HintPath>..\..\asp.net_xls_帮助类\xls\Bin\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats">
+      <HintPath>..\..\asp.net_xls_帮助类\xls\Bin\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\Images\ask.gif" />
+    <Content Include="App_Themes\Images\btn_bg.gif" />
+    <Content Include="App_Themes\Images\content_bg.gif" />
+    <Content Include="App_Themes\Images\err.gif" />
+    <Content Include="App_Themes\Images\ico.gif" />
+    <Content Include="App_Themes\Images\info.gif" />
+    <Content Include="App_Themes\Images\right.gif" />
+    <Content Include="App_Themes\Images\title_bg_center.gif" />
+    <Content Include="App_Themes\Images\title_bg_left.gif" />
+    <Content Include="App_Themes\Images\title_bg_right.gif" />
+    <Content Include="App_Themes\Images\win_b.gif" />
+    <Content Include="App_Themes\Images\win_l.gif" />
+    <Content Include="App_Themes\Images\win_lb.gif" />
+    <Content Include="App_Themes\Images\win_r.gif" />
+    <Content Include="App_Themes\Images\win_rb.gif" />
+    <Content Include="App_Themes\index\index.css" />
+    <Content Include="App_Themes\main\main.css" />
+    <Content Include="App_Themes\mta\mta.css" />
+    <Content Include="App_Themes\ymPrompt.css" />
+    <Content Include="App_Themes\ymPrompt.js" />
+    <Content Include="App_Themes\ymPromt_config.js" />
+    <Content Include="Default.aspx" />
+    <Content Include="File\mov.mp4" />
+    <Content Include="Images\bg1.png" />
+    <Content Include="Images\bg3.png" />
+    <Content Include="Images\bgIndexbutton.jpg" />
+    <Content Include="Images\bodyBg.gif" />
+    <Content Include="Images\bodyBg.jpg" />
+    <Content Include="Images\divbg.gif" />
+    <Content Include="Images\DownInRight.gif" />
+    <Content Include="Images\head.gif" />
+    <Content Include="Images\indexBg.jpg" />
+    <Content Include="Images\left.gif" />
+    <Content Include="Images\leftDownInRight.gif" />
+    <Content Include="Images\line4.gif" />
+    <Content Include="Images\lineDown.gif" />
+    <Content Include="Images\lineUp.gif" />
+    <Content Include="Images\location.png" />
+    <Content Include="Images\login.gif" />
+    <Content Include="Images\loginDown.jpg" />
+    <Content Include="Images\loginMiddle.jpg" />
+    <Content Include="Images\loginUp.jpg" />
+    <Content Include="Images\logOut.gif" />
+    <Content Include="Images\menuAll.gif" />
+    <Content Include="Images\menuDown.gif" />
+    <Content Include="Images\menuMiddle.gif" />
+    <Content Include="Images\menuTop.gif" />
+    <Content Include="Images\nav.gif" />
+    <Content Include="Images\pageTitle.gif" />
+    <Content Include="Images\rightDownInRight.gif" />
+    <Content Include="Images\rightTop.gif" />
+    <Content Include="Images\rightTopRight.gif" />
+    <Content Include="Images\top.jpg" />
+    <Content Include="Images\version.jpg" />
+    <Content Include="Images\复件 lineUp.gif" />
+    <Content Include="main\BookAdd.aspx" />
+    <Content Include="main\BookBorrowStat.aspx" />
+    <Content Include="main\BookList.aspx" />
+    <Content Include="main\BookLostList.aspx" />
+    <Content Include="main\BookLostRegister.aspx" />
+    <Content Include="main\BookStatus.aspx" />
+    <Content Include="main\BookType.aspx" />
+    <Content Include="main\BookTypeStat.aspx" />
+    <Content Include="main\BookUpdate.aspx" />
+    <Content Include="main\BorrowAgain.aspx" />
+    <Content Include="main\BorrowCardLost.aspx" />
+    <Content Include="main\BorrowCardLostList.aspx" />
+    <Content Include="main\BorrowCardStop.aspx" />
+    <Content Include="main\BorrowCardStopList.aspx" />
+    <Content Include="main\BorrowerAdd.aspx" />
+    <Content Include="main\BorrowerList.aspx" />
+    <Content Include="main\BorrowerUpdate.aspx" />
+    <Content Include="main\BorrowIn.aspx" />
+    <Content Include="main\BorrowList.aspx" />
+    <Content Include="main\BorrowOut.aspx" />
+    <Content Include="main\ChangePwd.aspx" />
+    <Content Include="main\css\main.css" />
+    <Content Include="main\css\tabs\css\easyui.css" />
+    <Content Include="main\css\tabs\css\icon.css" />
+    <Content Include="main\css\tabs\css\icons\back.png" />
+    <Content Include="main\css\tabs\css\icons\blank.gif" />
+    <Content Include="main\css\tabs\css\icons\cancel.png" />
+    <Content Include="main\css\tabs\css\icons\cut.png" />
+    <Content Include="main\css\tabs\css\icons\edit_add.png" />
+    <Content Include="main\css\tabs\css\icons\edit_remove.png" />
+    <Content Include="main\css\tabs\css\icons\filesave.png" />
+    <Content Include="main\css\tabs\css\icons\help.png" />
+    <Content Include="main\css\tabs\css\icons\no.png" />
+    <Content Include="main\css\tabs\css\icons\ok.png" />
+    <Content Include="main\css\tabs\css\icons\pencil.png" />
+    <Content Include="main\css\tabs\css\icons\print.png" />
+    <Content Include="main\css\tabs\css\icons\redo.png" />
+    <Content Include="main\css\tabs\css\icons\reload.png" />
+    <Content Include="main\css\tabs\css\icons\search.png" />
+    <Content Include="main\css\tabs\css\icons\sum.png" />
+    <Content Include="main\css\tabs\css\icons\undo.png" />
+    <Content Include="main\css\tabs\css\images\accordion_collapse.png" />
+    <Content Include="main\css\tabs\css\images\accordion_expand.png" />
+    <Content Include="main\css\tabs\css\images\button_a_bg.gif" />
+    <Content Include="main\css\tabs\css\images\button_plain_hover.png" />
+    <Content Include="main\css\tabs\css\images\button_span_bg.gif" />
+    <Content Include="main\css\tabs\css\images\calendar_nextmonth.gif" />
+    <Content Include="main\css\tabs\css\images\calendar_nextyear.gif" />
+    <Content Include="main\css\tabs\css\images\calendar_prevmonth.gif" />
+    <Content Include="main\css\tabs\css\images\calendar_prevyear.gif" />
+    <Content Include="main\css\tabs\css\images\combo_arrow.gif" />
+    <Content Include="main\css\tabs\css\images\datagrid_header_bg.gif" />
+    <Content Include="main\css\tabs\css\images\datagrid_row_collapse.gif" />
+    <Content Include="main\css\tabs\css\images\datagrid_row_expand.gif" />
+    <Content Include="main\css\tabs\css\images\datagrid_sort_asc.gif" />
+    <Content Include="main\css\tabs\css\images\datagrid_sort_desc.gif" />
+    <Content Include="main\css\tabs\css\images\datagrid_title_bg.png" />
+    <Content Include="main\css\tabs\css\images\datebox_arrow.png" />
+    <Content Include="main\css\tabs\css\images\layout_button_down.gif" />
+    <Content Include="main\css\tabs\css\images\layout_button_left.gif" />
+    <Content Include="main\css\tabs\css\images\layout_button_right.gif" />
+    <Content Include="main\css\tabs\css\images\layout_button_up.gif" />
+    <Content Include="main\css\tabs\css\images\menu.gif" />
+    <Content Include="main\css\tabs\css\images\menu_downarrow.png" />
+    <Content Include="main\css\tabs\css\images\menu_rightarrow.png" />
+    <Content Include="main\css\tabs\css\images\menu_sep.png" />
+    <Content Include="main\css\tabs\css\images\menu_split_downarrow.png" />
+    <Content Include="main\css\tabs\css\images\messager_error.gif" />
+    <Content Include="main\css\tabs\css\images\messager_info.gif" />
+    <Content Include="main\css\tabs\css\images\messager_question.gif" />
+    <Content Include="main\css\tabs\css\images\messager_warning.gif" />
+    <Content Include="main\css\tabs\css\images\pagination_first.gif" />
+    <Content Include="main\css\tabs\css\images\pagination_last.gif" />
+    <Content Include="main\css\tabs\css\images\pagination_load.png" />
+    <Content Include="main\css\tabs\css\images\pagination_loading.gif" />
+    <Content Include="main\css\tabs\css\images\pagination_next.gif" />
+    <Content Include="main\css\tabs\css\images\pagination_prev.gif" />
+    <Content Include="main\css\tabs\css\images\panel_loading.gif" />
+    <Content Include="main\css\tabs\css\images\panel_title.png" />
+    <Content Include="main\css\tabs\css\images\panel_tools.gif" />
+    <Content Include="main\css\tabs\css\images\panel_tool_collapse.gif" />
+    <Content Include="main\css\tabs\css\images\panel_tool_expand.gif" />
+    <Content Include="main\css\tabs\css\images\spinner_arrow_down.gif" />
+    <Content Include="main\css\tabs\css\images\spinner_arrow_up.gif" />
+    <Content Include="main\css\tabs\css\images\tabs_active.png" />
+    <Content Include="main\css\tabs\css\images\tabs_close.gif" />
+    <Content Include="main\css\tabs\css\images\tabs_enabled.png" />
+    <Content Include="main\css\tabs\css\images\tabs_leftarrow.png" />
+    <Content Include="main\css\tabs\css\images\tabs_rightarrow.png" />
+    <Content Include="main\css\tabs\css\images\tree_arrows.gif" />
+    <Content Include="main\css\tabs\css\images\tree_checkbox_0.gif" />
+    <Content Include="main\css\tabs\css\images\tree_checkbox_1.gif" />
+    <Content Include="main\css\tabs\css\images\tree_checkbox_2.gif" />
+    <Content Include="main\css\tabs\css\images\tree_dnd_no.png" />
+    <Content Include="main\css\tabs\css\images\tree_dnd_yes.png" />
+    <Content Include="main\css\tabs\css\images\tree_file.gif" />
+    <Content Include="main\css\tabs\css\images\tree_folder.gif" />
+    <Content Include="main\css\tabs\css\images\tree_folder_open.gif" />
+    <Content Include="main\css\tabs\css\images\tree_loading.gif" />
+    <Content Include="main\css\tabs\css\images\validatebox_pointer.gif" />
+    <Content Include="main\css\tabs\css\images\validatebox_warning.png" />
+    <Content Include="main\DownloadExcel.aspx" />
+    <Content Include="main\Index.aspx" />
+    <Content Include="main\InputExcel.aspx" />
+    <Content Include="main\InputList.aspx" />
+    <Content Include="main\javascript\jquery-1.4.4.min.js" />
+    <Content Include="main\javascript\jquery-1.8.0.js" />
+    <Content Include="main\javascript\jquery.easyui.min.js" />
+    <Content Include="main\javascript\my97datepicker\calendar.js" />
+    <Content Include="main\javascript\my97datepicker\config.js" />
+    <Content Include="main\javascript\my97datepicker\lang\en.js" />
+    <Content Include="main\javascript\my97datepicker\lang\zh-cn.js" />
+    <Content Include="main\javascript\my97datepicker\lang\zh-tw.js" />
+    <Content Include="main\javascript\my97datepicker\My97DatePicker.htm" />
+    <Content Include="main\javascript\my97datepicker\skin\datePicker.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\default\datepicker.css" />
+    <Content Include="main\javascript\my97datepicker\skin\default\img.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\datepicker.css" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\dateselect.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\glass-bg.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\hd-sprite.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\img.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\left-btn.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\left-btn2.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\right-btn.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\ext\right-btn2.gif" />
+    <Content Include="main\javascript\my97datepicker\skin\WdatePicker.css" />
+    <Content Include="main\javascript\my97datepicker\skin\whyGreen\bg.jpg" />
+    <Content Include="main\javascript\my97datepicker\skin\whyGreen\datepicker.css" />
+    <Content Include="main\javascript\my97datepicker\skin\whyGreen\img.gif" />
+    <Content Include="main\javascript\my97datepicker\WdatePicker.js" />
+    <Content Include="main\javascript\showlist.js" />
+    <Content Include="main\LogOut.aspx" />
+    <Content Include="main\UserPermit.aspx" />
+    <Content Include="main\Welcome.aspx" />
+    <Content Include="packages.config" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="App_Themes\mta\mta.skin" />
+    <Content Include="main\MasterPage.Master" />
+    <Content Include="Log4Net.config" />
+    <None Include="Properties\PublishProfiles\BooksWeb.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="scripts\ai.0.22.19-build00125.js" />
+    <Content Include="scripts\ai.0.22.19-build00125.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExcelHelper.cs" />
+    <Compile Include="FtpAndHttpUpload.cs" />
+    <Compile Include="main\BookAdd.aspx.cs">
+      <DependentUpon>BookAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookAdd.aspx.designer.cs">
+      <DependentUpon>BookAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BookBorrowStat.aspx.cs">
+      <DependentUpon>BookBorrowStat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookBorrowStat.aspx.designer.cs">
+      <DependentUpon>BookBorrowStat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BookList.aspx.cs">
+      <DependentUpon>BookList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookList.aspx.designer.cs">
+      <DependentUpon>BookList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BookLostList.aspx.cs">
+      <DependentUpon>BookLostList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookLostList.aspx.designer.cs">
+      <DependentUpon>BookLostList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BookLostRegister.aspx.cs">
+      <DependentUpon>BookLostRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookLostRegister.aspx.designer.cs">
+      <DependentUpon>BookLostRegister.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BookStatus.aspx.cs">
+      <DependentUpon>BookStatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookStatus.aspx.designer.cs">
+      <DependentUpon>BookStatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BookType.aspx.cs">
+      <DependentUpon>BookType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookType.aspx.designer.cs">
+      <DependentUpon>BookType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BookTypeStat.aspx.cs">
+      <DependentUpon>BookTypeStat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookTypeStat.aspx.designer.cs">
+      <DependentUpon>BookTypeStat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BookUpdate.aspx.cs">
+      <DependentUpon>BookUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BookUpdate.aspx.designer.cs">
+      <DependentUpon>BookUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowAgain.aspx.cs">
+      <DependentUpon>BorrowAgain.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowAgain.aspx.designer.cs">
+      <DependentUpon>BorrowAgain.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowCardLost.aspx.cs">
+      <DependentUpon>BorrowCardLost.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowCardLost.aspx.designer.cs">
+      <DependentUpon>BorrowCardLost.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowCardLostList.aspx.cs">
+      <DependentUpon>BorrowCardLostList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowCardLostList.aspx.designer.cs">
+      <DependentUpon>BorrowCardLostList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowCardStop.aspx.cs">
+      <DependentUpon>BorrowCardStop.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowCardStop.aspx.designer.cs">
+      <DependentUpon>BorrowCardStop.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowCardStopList.aspx.cs">
+      <DependentUpon>BorrowCardStopList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowCardStopList.aspx.designer.cs">
+      <DependentUpon>BorrowCardStopList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowerAdd.aspx.cs">
+      <DependentUpon>BorrowerAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowerAdd.aspx.designer.cs">
+      <DependentUpon>BorrowerAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowerList.aspx.cs">
+      <DependentUpon>BorrowerList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowerList.aspx.designer.cs">
+      <DependentUpon>BorrowerList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowerUpdate.aspx.cs">
+      <DependentUpon>BorrowerUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowerUpdate.aspx.designer.cs">
+      <DependentUpon>BorrowerUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowIn.aspx.cs">
+      <DependentUpon>BorrowIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowIn.aspx.designer.cs">
+      <DependentUpon>BorrowIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowList.aspx.cs">
+      <DependentUpon>BorrowList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowList.aspx.designer.cs">
+      <DependentUpon>BorrowList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\BorrowOut.aspx.cs">
+      <DependentUpon>BorrowOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\BorrowOut.aspx.designer.cs">
+      <DependentUpon>BorrowOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\ChangePwd.aspx.cs">
+      <DependentUpon>ChangePwd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\ChangePwd.aspx.designer.cs">
+      <DependentUpon>ChangePwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\DownloadExcel.aspx.cs">
+      <DependentUpon>DownloadExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\DownloadExcel.aspx.designer.cs">
+      <DependentUpon>DownloadExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\InputExcel.aspx.cs">
+      <DependentUpon>InputExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\InputExcel.aspx.designer.cs">
+      <DependentUpon>InputExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\InputList.aspx.cs">
+      <DependentUpon>InputList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\InputList.aspx.designer.cs">
+      <DependentUpon>InputList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\LogOut.aspx.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\LogOut.aspx.designer.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="main\UserPermit.aspx.cs">
+      <DependentUpon>UserPermit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\UserPermit.aspx.designer.cs">
+      <DependentUpon>UserPermit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="main\Welcome.aspx.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main\Welcome.aspx.designer.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MtaClass.cs" />
+    <Compile Include="MyBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{38d7aa58-c95b-449b-86c6-a8073a56e11f}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{d94df086-ed75-4ca0-85c8-84ba31e06a3e}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{53995dbb-9836-4647-ad22-865884fdeb9e}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>20129</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:20179/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

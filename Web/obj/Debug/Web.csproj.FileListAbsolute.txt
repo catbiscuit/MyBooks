@@ -1,0 +1,933 @@
+E:\C#\MyTestProject\book1943\Web\bin\ApplicationInsights.config
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\csc.exe
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\vbc.exe
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\VBCSCompiler.exe
+E:\C#\MyTestProject\book1943\Web\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\MyTestProject\book1943\Web\bin\Web.dll.config
+E:\C#\MyTestProject\book1943\Web\bin\Web.dll
+E:\C#\MyTestProject\book1943\Web\bin\Web.pdb
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.Web.dll
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.WindowsServer.dll
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.ApplicationInsights.dll
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.Web.xml
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.AI.WindowsServer.xml
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.ApplicationInsights.xml
+E:\C#\MyTestProject\book1943\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\MyTestProject\book1943\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\C#\MyTestProject\book1943\Web\obj\Debug\Web.dll
+E:\C#\MyTestProject\book1943\Web\obj\Debug\Web.pdb
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\ApplicationInsights.config
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\csc.exe
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\vbc.exe
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Web.dll.config
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Web.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Web.pdb
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.Web.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.Web.xml
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\huixi\Desktop\book1943 - 副本\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huixi\Desktop\book1943 - 副本\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\huixi\Desktop\book1943 - 副本\Web\obj\Debug\Web.dll
+C:\Users\huixi\Desktop\book1943 - 副本\Web\obj\Debug\Web.pdb
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\ApplicationInsights.config
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\csc.exe
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\vbc.exe
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Web.dll.config
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Web.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Web.pdb
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.Web.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.Web.xml
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\obj\Debug\Web.dll
+C:\Users\huixi\Desktop\book1943 - 副本 - 副本\Web\obj\Debug\Web.pdb
+C:\Users\huixi\Desktop\book201609\Web\bin\ApplicationInsights.config
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\csc.exe
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\vbc.exe
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\huixi\Desktop\book201609\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huixi\Desktop\book201609\Web\bin\Web.dll.config
+C:\Users\huixi\Desktop\book201609\Web\bin\Web.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Web.pdb
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.Web.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.Web.xml
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\huixi\Desktop\book201609\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huixi\Desktop\book201609\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\huixi\Desktop\book201609\Web\obj\Debug\Web.dll
+C:\Users\huixi\Desktop\book201609\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\book201609\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\book201609\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\book201609\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\book201609\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\book201609\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\book201609\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\book201609\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\book201609\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\09260929\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\09260929\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\09260929\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\09260929\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\09260929\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\09260929\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\09260929\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\09260929\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\09260929\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\09260929\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\09260929\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\09260929\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\09260929\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\09260929 - 副本\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\09280816\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\09280816\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\09280816\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\09280816\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\09280816\Web\bin\AspNetPager.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\09280816\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\09280816\Web\bin\AspNetPager.pdb
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\09280816\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\09280816\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\09280816\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\09280816\Web\bin\en\AspNetPager.resources.dll
+C:\Users\Windows10\Desktop\09280816\Web\bin\zh-CHT\AspNetPager.resources.dll
+C:\Users\Windows10\Desktop\09280816\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\09280816\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\09280816\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10080953\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10080953\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10080953\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10080953\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10080953\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10080953\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10080953\Web\bin\AspNetPager.pdb
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10080953\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10080953\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10080953\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10080953\Web\bin\en\AspNetPager.resources.dll
+C:\Users\Windows10\Desktop\10080953\Web\bin\zh-CHT\AspNetPager.resources.dll
+C:\Users\Windows10\Desktop\10080953\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10080953\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10080953\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10090818\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10090818\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10090818\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10090818\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10090818\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\NPOI.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\NPOI.OOXML.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\NPOI.OpenXml4Net.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\NPOI.OpenXmlFormats.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10090818\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10090818\Web\bin\AspNetPager.pdb
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\NPOI.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\NPOI.OOXML.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\NPOI.OpenXml4Net.xml
+C:\Users\Windows10\Desktop\10090818\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10090818\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10090818\Web\bin\en\AspNetPager.resources.dll
+C:\Users\Windows10\Desktop\10090818\Web\bin\zh-CHT\AspNetPager.resources.dll
+C:\Users\Windows10\Desktop\10090818\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10090818\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10090818\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10100819\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10100819\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10100819\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10100819\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10100819\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10100819\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10100819\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10100819\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10100819\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10100819\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10100819\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10100819\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10100819\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10100819\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10110818\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10110818\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10110818\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10110818\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10110818\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10110818\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10110818\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10110818\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10110818\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10110818\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10110818\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10110818\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10110818\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10110818\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10120802\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10120802\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10120802\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10120802\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10120802\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10120802\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10120802\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10120802\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10120802\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10120802\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10120802\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10120802\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10120802\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10120802\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10140820\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10140820\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10140820\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10140820\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10140820\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10140820\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10140820\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10140820\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10140820\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10140820\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10140820\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10140820\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10140820\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10140820\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10180841\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10180841\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10180841\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10180841\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10180841\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10180841\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10180841\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10180841\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10180841\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10180841\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10180841\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10180841\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10180841\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10180841\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10190817\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10190817\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10190817\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10190817\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10190817\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10190817\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10190817\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10190817\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10190817\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10190817\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10190817\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10190817\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10190817\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10190817\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10200817\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10200817\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10200817\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10200817\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10200817\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10200817\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10200817\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10200817\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10200817\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10200817\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10200817\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10200817\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10200817\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10200817\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10210834\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10210834\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10210834\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10210834\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10210834\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10210834\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10210834\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10210834\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10210834\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10210834\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10210834\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10210834\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10210834\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10210834\Web\obj\Debug\Web.pdb
+C:\Users\Windows10\Desktop\10240959\Web\bin\ApplicationInsights.config
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\csc.exe
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\vbc.exe
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows10\Desktop\10240959\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows10\Desktop\10240959\Web\bin\Web.dll.config
+C:\Users\Windows10\Desktop\10240959\Web\bin\Web.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Web.pdb
+C:\Users\Windows10\Desktop\10240959\Web\bin\book.BLL.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\book.Model.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\web.Common.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\book.DAL.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Maticsoft.Common.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\log4net.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\book.DBUtility.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\System.Data.SQLite.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\MySql.Data.dll
+C:\Users\Windows10\Desktop\10240959\Web\bin\book.BLL.pdb
+C:\Users\Windows10\Desktop\10240959\Web\bin\web.Common.pdb
+C:\Users\Windows10\Desktop\10240959\Web\bin\book.Model.pdb
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows10\Desktop\10240959\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows10\Desktop\10240959\Web\bin\book.DAL.pdb
+C:\Users\Windows10\Desktop\10240959\Web\bin\book.DBUtility.pdb
+C:\Users\Windows10\Desktop\10240959\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10240959\Web\obj\Debug\Web.dll
+C:\Users\Windows10\Desktop\10240959\Web\obj\Debug\Web.pdb
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\ApplicationInsights.config
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\csc.exe
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\System.Collections.Immutable.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\vbc.exe
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\VBCSCompiler.exe
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\roslyn\VBCSCompiler.exe.config
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Web.dll.config
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Web.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Web.pdb
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\book.BLL.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\book.Model.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.Web.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.WindowsServer.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.ApplicationInsights.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.ReportViewer.WebForms.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\web.Common.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\book.DAL.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Maticsoft.Common.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\log4net.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\GetuiServerApiSDK.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\System.Web.Http.WebHost.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.ReportViewer.Common.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\book.DBUtility.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Google.ProtocolBuffers.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\System.Data.SQLite.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\MySql.Data.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\book.BLL.pdb
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\web.Common.pdb
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\book.Model.pdb
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.Web.xml
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.AI.WindowsServer.xml
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.ApplicationInsights.xml
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\book.DAL.pdb
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\bin\book.DBUtility.pdb
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\obj\Debug\Web.dll
+E:\vsprogramfile\自己做的图书管理系统\10250814\Web\obj\Debug\Web.pdb

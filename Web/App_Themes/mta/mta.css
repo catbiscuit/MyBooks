@@ -1,0 +1,65 @@
+﻿body
+{
+    margin:6px 12px 8px 16px;
+    width:748px; height:449px;
+    /*filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#DBDBDB,endColorStr=#BBBFC2);
+	background-color: #BBBFC2;*/
+    background-image:url(../../images/bodyBg.jpg); background-repeat:repeat-x; background-position:top;
+    background-color: #BBBFC2;
+    overflow-x:hidden;overflow-y:scroll;
+}
+
+div,p,td,body,input,select
+{
+	font-family: 宋体; font-size: 12px; line-height:16px;
+}
+hr
+{
+	height:0px;
+	border:0px;
+	border-top:#6595d6 1px solid;
+	width:100%;
+}
+
+p, div {margin: 0; padding: 0; border: 0;}
+img { vertical-align: middle; border:0px; }
+
+a:link {color: #000000; text-decoration:none;}
+a:visited {color: #000000;text-decoration:none;}
+a:hover {color: #FF0000; text-decoration:underline;}
+a:active {color: #000000;}
+
+.msg { color:#FF0000; }
+.labelBody { width:698px; }
+.labelLeft, .labelText, .labelRight { float:left; height:18px; }
+.labelLeft, .labelRight { float:left; background-image:url(../../images/line4.gif); background-position:center; background-repeat:repeat-x;}
+.labelLeft { width:16px; }
+.labelText { width:136px;  line-height:18px;text-align:center; font-family:宋体; font-size:16px; font-weight:bold; color:#002774; }
+.labelRight { width:540px; }
+
+.articleTitle { width:698px; font-size:14px; font-weight:bold; padding:4px; text-align:center; }
+.articleAuthor { float:left; width:400px; padding-left:10px; }
+.articleTime { float:left; width:280px; text-align:right; }
+.articleBody { width:698px; margin:0px auto; text-align:left; padding:10px; }
+
+.formViewTitle { width:136px; overflow:hidden; font-family:宋体; font-size:12px; font-weight:bold; color:#022778; text-align:right; }
+
+.input1, .input2,.input4,.intpu6 { height:20px; }
+.input1 { width:22px; }
+.input2 { width:48px; }
+.input4 { width:60px; }
+.input6 { width:90px; }
+
+.quote
+{
+	border-right:#cccccc 1px solid;
+	padding-right:5px;
+	border-top:#cccccc 1px solid;
+	padding-left:5px;
+	background-color:#f3f3f3;
+	padding-bottom:5px;
+	margin:5px 20px;
+	border-left:#cccccc 1px solid;
+	padding-top:5px;
+	border-bottom:#cccccc 1px solid;
+}

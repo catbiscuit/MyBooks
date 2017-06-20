@@ -1,0 +1,72 @@
+
+ 
+记录时间：2016-10-19 11:47:30,551 
+线程ID:[7] 
+日志级别：  ERROR 
+错误描述：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 175
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 175
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+
+ 
+记录时间：2016-10-19 11:50:30,751 
+线程ID:[5] 
+日志级别：  ERROR 
+错误描述：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+
+ 
+记录时间：2016-10-19 11:50:36,807 
+线程ID:[5] 
+日志级别：  ERROR 
+错误描述：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+
+ 
+记录时间：2016-10-19 11:51:40,148 
+线程ID:[6] 
+日志级别：  ERROR 
+错误描述：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+
+ 
+记录时间：2016-10-19 11:52:44,992 
+线程ID:[7] 
+日志级别：  ERROR 
+错误描述：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+
+ 
+记录时间：2016-10-19 11:53:29,481 
+线程ID:[14] 
+日志级别：  ERROR 
+错误描述：System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Web.main.UserPermit.MenuSave(String userid) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 176
+   在 Web.main.UserPermit.btnSave_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10190817\Web\main\UserPermit.aspx.cs:行号 151

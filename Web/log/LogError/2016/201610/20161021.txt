@@ -1,0 +1,16 @@
+
+ 
+记录时间：2016-10-21 09:56:46,697 
+线程ID:[17] 
+日志级别：  ERROR 
+错误描述：System.ArgumentOutOfRangeException: StartIndex 不能小于 0。
+参数名: startIndex
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 System.String.Substring(Int32 startIndex)
+   在 Web.main.BookUpdate.btnImg_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10210834\Web\main\BookUpdate.aspx.cs:行号 115
+ 
+System.ArgumentOutOfRangeException: StartIndex 不能小于 0。
+参数名: startIndex
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 System.String.Substring(Int32 startIndex)
+   在 Web.main.BookUpdate.btnImg_Click(Object sender, EventArgs e) 位置 C:\Users\Windows10\Desktop\10210834\Web\main\BookUpdate.aspx.cs:行号 115

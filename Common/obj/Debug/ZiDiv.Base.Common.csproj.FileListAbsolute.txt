@@ -1,0 +1,84 @@
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ZiDiv.Base.Common.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ZiDiv.Base.Common.pdb
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\GetuiServerApiSDK.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Google.ProtocolBuffers.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\log4net.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Senparc.Weixin.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Senparc.Weixin.MP.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ServiceStack.Text.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.WebHost.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Net.Http.Formatting.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.WebHost.xml
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.xml
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Net.Http.Formatting.xml
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\obj\Debug\ZiDiv.Base.Common.csprojResolveAssemblyReference.cache
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\obj\Debug\ZiDiv.Base.Common.dll
+E:\SVNProject\Project Web\ZiDiv.Build\ZiDiv.Base.Common\obj\Debug\ZiDiv.Base.Common.pdb
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ZiDiv.Base.Common.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ZiDiv.Base.Common.pdb
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\GetuiServerApiSDK.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Google.ProtocolBuffers.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\log4net.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Senparc.Weixin.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Senparc.Weixin.MP.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ServiceStack.Text.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.WebHost.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Net.Http.Formatting.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.WebHost.xml
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.xml
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Net.Http.Formatting.xml
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\obj\Debug\ZiDiv.Base.Common.dll
+D:\SVN\Project Web\ZiDiv.Build\ZiDiv.Base.Common\obj\Debug\ZiDiv.Base.Common.pdb
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ZiDiv.Base.Common.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ZiDiv.Base.Common.pdb
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\GetuiServerApiSDK.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Google.ProtocolBuffers.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\log4net.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Senparc.Weixin.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Senparc.Weixin.MP.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\ServiceStack.Text.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.WebHost.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Net.Http.Formatting.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Newtonsoft.Json.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.WebHost.xml
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Web.Http.xml
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\System.Net.Http.Formatting.xml
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\Microsoft.Web.Infrastructure.xml
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\obj\Debug\ZiDiv.Base.Common.csprojResolveAssemblyReference.cache
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\obj\Debug\ZiDiv.Base.Common.dll
+L:\C#资料\ZiDiv.Build\ZiDiv.Base.Common\obj\Debug\ZiDiv.Base.Common.pdb
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\ZiDiv.Base.Common.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\ZiDiv.Base.Common.pdb
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\GetuiServerApiSDK.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\log4net.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\Senparc.Weixin.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\Senparc.Weixin.MP.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\ServiceStack.Text.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\System.Web.Http.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\System.Web.Http.xml
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Windows10\Desktop\10100819\Common\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Windows10\Desktop\10100819\Common\obj\Debug\ZiDiv.Base.Common.csprojResolveAssemblyReference.cache
+C:\Users\Windows10\Desktop\10100819\Common\obj\Debug\ZiDiv.Base.Common.dll
+C:\Users\Windows10\Desktop\10100819\Common\obj\Debug\ZiDiv.Base.Common.pdb
